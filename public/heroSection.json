@@ -1,0 +1,31 @@
+{
+    "heroSection": {
+      "smallHeading": "🔥 Akhil System pvt limited",
+      "mainHeading": "Dynamic Homepage with Admin Tool",
+      "description": "Akhil System Pvt Limited presents a transformative solution for modern businesses with its Dynamic Homepage with Admin Tool. Our innovative platform empowers you to take charge of your website's first impression with unparalleled ease and flexibility. The dynamic homepage serves as the digital face of your brand, where the content and imagery are not just static placeholders but vibrant elements that can be updated in real-time.",
+      "emailPlaceholder": "Enter your email address",
+      "ctaText": "Get Started",
+      "trialInfo": "Try for free no credit card required.",
+      "images": {
+        "shape01": {
+          "src": "/images/shape/shape-01.png",
+          "alt": "shape",
+          "width": 46,
+          "height": 246
+        },
+        "shape02": {
+          "src": "/images/shape/shape-02.svg",
+          "alt": "shape",
+          "width": 36.9,
+          "height": 36.7
+        },
+        "shape03": {
+          "src": "/images/shape/shape-03.svg",
+          "alt": "shape",
+          "width": 21.64,
+          "height": 21.66
+        }
+      }
+    }
+  }
+  
