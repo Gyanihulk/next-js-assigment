@@ -32,21 +32,21 @@ const Footer = () => {
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-light.svg"
+                    src="/images/logo/logo-dark.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-dark.svg"
+                    src="/images/logo/logo-dark.png"
                     alt="Logo"
                     className="hidden dark:block"
                   />
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                We are one of the pioneers Hospital Information System (HIS) company with 29 years of experience in the single domain of healthcare and specialized in delivering management information systems for Hospitals, Medical Colleges, Clinics, Diagnostic Centers and Pharmacy Chains. We have around 400+ Hospitals and Medical Colleges projects (Hospitals from 20 Beds up to 1800 Beds) running Worldwide.
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -56,7 +56,7 @@ const Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  assignment@akhilsystem.com
                 </a>
               </motion.div>
 
@@ -301,7 +301,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Solid. All rights reserved
+                &copy; {new Date().getFullYear()} Akhil System. All rights reserved
               </p>
             </motion.div>
 

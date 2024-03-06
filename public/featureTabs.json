@@ -1,0 +1,30 @@
+[
+    {
+      "id": "tabOne",
+      "heading":"Pioneering Healthcare IT",
+      "title": "29+ Years in Healthcare IT Solutions",
+      "desc1": "Pioneering Hospital Information System (HIS) development with over 29 years of specialized experience in the healthcare sector.",
+      "desc2": "Our solutions cater to Hospitals, Medical Colleges, Clinics, Diagnostic Centers, and Pharmacy Chains, ensuring comprehensive management and operational efficiency.",
+      "image": "/images/features/features-light-01.png",
+      "imageDark": "/images/features/features-dark-01.svg"
+    },
+    {
+      "id": "tabTwo",
+      "heading":"Worldwide Healthcare Solutions",
+      "title": "Global Presence in 14+ Countries",
+      "desc1": "Expanding our reach to serve healthcare institutions across 14+ countries and 25+ states in India, our solutions are designed for global compatibility.",
+      "desc2": "From Saudi Arabia to the Philippines, our impact is felt worldwide, enhancing healthcare management with advanced HIS implementations.",
+      "image": "/images/features/features-light-01.png",
+      "imageDark": "/images/features/features-dark-01.svg"
+    },
+    {
+      "id": "tabThree",
+      "heading":"Future-Ready Healthcare Platforms",
+      "title": "Cloud-Based & Web Accessible Solutions",
+      "desc1": "Embrace the flexibility of our cloud-based solutions, designed for easy access anywhere, anytime, ensuring operational continuity and scalability.",
+      "desc2": "Our software suite includes Web-based Electronic Medical Records, Patient Portals, and Mobile Applications for both doctors and patients, enhancing connectivity and care delivery.",
+      "image": "/images/features/features-light-01.png",
+      "imageDark": "/images/features/features-dark-01.svg"
+    }
+  ]
+  

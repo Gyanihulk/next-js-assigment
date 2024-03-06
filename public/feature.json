@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "icon": "/images/icon/icon-01.svg",
+      "title": "29+ Years of Healthcare IT Solutions",
+      "description": "Pioneers in Hospital Information System with over 29 years of experience, specializing in management information systems for the healthcare sector."
+    },
+    {
+      "id": 2,
+      "icon": "/images/icon/icon-02.svg",
+      "title": "Global Presence",
+      "description": "Serving in 14+ countries and 25+ states across India, our solutions are tailored for hospitals, clinics, and pharmacies worldwide."
+    },
+    {
+      "id": 3,
+      "icon": "/images/icon/icon-03.svg",
+      "title": "400+ HIS Implementations",
+      "description": "Proven track record with 400+ successful HIS implementations globally, enhancing healthcare management and operations."
+    },
+    {
+      "id": 4,
+      "icon": "/images/icon/icon-04.svg",
+      "title": "Award-Winning Solutions",
+      "description": "Recognized as the 'Best HIS Provider of the Year' among other accolades, reflecting our commitment to quality and innovation."
+    },
+    {
+      "id": 5,
+      "icon": "/images/icon/icon-06.svg",
+      "title": "Dedicated Support",
+      "description": "Committed to excellence with a professional support team offering unparalleled post-sales support to our clients."
+    },
+    {
+      "id": 6,
+      "icon": "/images/icon/icon-05.svg",
+      "title": "Cloud-Based Solutions",
+      "description": "Flexible, web/browser-based solutions that can be hosted on the Cloud, ensuring accessibility and scalability."
+    }
+  ]
